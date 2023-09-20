@@ -1,4 +1,5 @@
 import Head from 'next/head'
+
 import Slider from "react-slick";
 
 export default function BrowseCourses() {
